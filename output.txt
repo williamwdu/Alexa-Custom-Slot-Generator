@@ -1,0 +1,3630 @@
+{
+"id": null,
+"name": {
+"value": "ABBOTSFORD",
+"synonyms": [
+"ABBOTSFORD",
+"ABBOTSFORD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "AGASSIZ",
+"synonyms": [
+"AGASSIZ",
+"AGASSIZ station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "AHUNTSIC",
+"synonyms": [
+"AHUNTSIC",
+"AHUNTSIC station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ALDERSHOT",
+"synonyms": [
+"ALDERSHOT",
+"ALDERSHOT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ALEXANDRIA",
+"synonyms": [
+"ALEXANDRIA",
+"ALEXANDRIA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ALLANWATER BRIDGE",
+"synonyms": [
+"ALLANWATER BRIDGE",
+"ALLANWATER BRIDGE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ALZEA LAKE",
+"synonyms": [
+"ALZEA LAKE",
+"ALZEA LAKE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "AMERY",
+"synonyms": [
+"AMERY",
+"AMERY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "AMHERST",
+"synonyms": [
+"AMHERST",
+"AMHERST station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "AMQUI",
+"synonyms": [
+"AMQUI",
+"AMQUI station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ANJOU",
+"synonyms": [
+"ANJOU",
+"ANJOU station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ARMSTRONG",
+"synonyms": [
+"ARMSTRONG",
+"ARMSTRONG station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ASHCROFT",
+"synonyms": [
+"ASHCROFT",
+"ASHCROFT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "AUDEN",
+"synonyms": [
+"AUDEN",
+"AUDEN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "AZILDA",
+"synonyms": [
+"AZILDA",
+"AZILDA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BATHURST",
+"synonyms": [
+"BATHURST",
+"BATHURST station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BATHURST ST",
+"synonyms": [
+"BATHURST ST",
+"BATHURST ST station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BELLEVILLE",
+"synonyms": [
+"BELLEVILLE",
+"BELLEVILLE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BEND",
+"synonyms": [
+"BEND",
+"BEND station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BENNY",
+"synonyms": [
+"BENNY",
+"BENNY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BIGGAR",
+"synonyms": [
+"BIGGAR",
+"BIGGAR station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BIMA",
+"synonyms": [
+"BIMA",
+"BIMA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BIRD",
+"synonyms": [
+"BIRD",
+"BIRD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BISCOTASING",
+"synonyms": [
+"BISCOTASING",
+"BISCOTASING station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BLUE RIVER",
+"synonyms": [
+"BLUE RIVER",
+"BLUE RIVER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BOLGER",
+"synonyms": [
+"BOLGER",
+"BOLGER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BOLKOW",
+"synonyms": [
+"BOLKOW",
+"BOLKOW station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BOSTON BAR",
+"synonyms": [
+"BOSTON BAR",
+"BOSTON BAR station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BOURMONT",
+"synonyms": [
+"BOURMONT",
+"BOURMONT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BRAMPTON",
+"synonyms": [
+"BRAMPTON",
+"BRAMPTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BRANTFORD",
+"synonyms": [
+"BRANTFORD",
+"BRANTFORD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BRERETON LAKE",
+"synonyms": [
+"BRERETON LAKE",
+"BRERETON LAKE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BRIDGAR",
+"synonyms": [
+"BRIDGAR",
+"BRIDGAR station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BROCKVILLE",
+"synonyms": [
+"BROCKVILLE",
+"BROCKVILLE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BROOKS",
+"synonyms": [
+"BROOKS",
+"BROOKS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "BURNS LAKE",
+"synonyms": [
+"BURNS LAKE",
+"BURNS LAKE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CAMPBELLTON",
+"synonyms": [
+"CAMPBELLTON",
+"CAMPBELLTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CANN",
+"synonyms": [
+"CANN",
+"CANN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CANORA",
+"synonyms": [
+"CANORA",
+"CANORA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CANYON",
+"synonyms": [
+"CANYON",
+"CANYON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CAPREOL",
+"synonyms": [
+"CAPREOL",
+"CAPREOL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CARAMAT",
+"synonyms": [
+"CARAMAT",
+"CARAMAT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CARIBOU",
+"synonyms": [
+"CARIBOU",
+"CARIBOU station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CARTIER",
+"synonyms": [
+"CARTIER",
+"CARTIER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CASEY",
+"synonyms": [
+"CASEY",
+"CASEY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CASSELMAN",
+"synonyms": [
+"CASSELMAN",
+"CASSELMAN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CAUSAPSCAL",
+"synonyms": [
+"CAUSAPSCAL",
+"CAUSAPSCAL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CEDARVALE",
+"synonyms": [
+"CEDARVALE",
+"CEDARVALE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CHAMBORD",
+"synonyms": [
+"CHAMBORD",
+"CHAMBORD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "Chapleau",
+"synonyms": [
+"Chapleau",
+"Chapleau station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CHARETTE",
+"synonyms": [
+"CHARETTE",
+"CHARETTE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CHARLO",
+"synonyms": [
+"CHARLO",
+"CHARLO station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CHARNY",
+"synonyms": [
+"CHARNY",
+"CHARNY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CHATHAM",
+"synonyms": [
+"CHATHAM",
+"CHATHAM station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CHELMSFORD",
+"synonyms": [
+"CHELMSFORD",
+"CHELMSFORD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CHEROKEE",
+"synonyms": [
+"CHEROKEE",
+"CHEROKEE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CHESNAYE",
+"synonyms": [
+"CHESNAYE",
+"CHESNAYE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CHILLIWACK",
+"synonyms": [
+"CHILLIWACK",
+"CHILLIWACK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CHURCHILL",
+"synonyms": [
+"CHURCHILL",
+"CHURCHILL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CLEARWATER",
+"synonyms": [
+"CLEARWATER",
+"CLEARWATER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CLOVA",
+"synonyms": [
+"CLOVA",
+"CLOVA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CLUB BEAUDIN INC.",
+"synonyms": [
+"CLUB BEAUDIN INC.",
+"CLUB BEAUDIN INC. station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CLUB BELANGER",
+"synonyms": [
+"CLUB BELANGER",
+"CLUB BELANGER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CLUB GRÉGOIRE",
+"synonyms": [
+"CLUB GRÉGOIRE",
+"CLUB GRÉGOIRE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CLUB JACQUES-CARTIER",
+"synonyms": [
+"CLUB JACQUES-CARTIER",
+"CLUB JACQUES-CARTIER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CLUB NICOLE",
+"synonyms": [
+"CLUB NICOLE",
+"CLUB NICOLE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CLUB RITA INC.",
+"synonyms": [
+"CLUB RITA INC.",
+"CLUB RITA INC. station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CLUB VERMILLION",
+"synonyms": [
+"CLUB VERMILLION",
+"CLUB VERMILLION station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CLUB WIGWAM",
+"synonyms": [
+"CLUB WIGWAM",
+"CLUB WIGWAM station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "COBOURG",
+"synonyms": [
+"COBOURG",
+"COBOURG station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "COLLINS",
+"synonyms": [
+"COLLINS",
+"COLLINS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CONSOLIDATED BATHURST",
+"synonyms": [
+"CONSOLIDATED BATHURST",
+"CONSOLIDATED BATHURST station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "COPELANDS LANDING",
+"synonyms": [
+"COPELANDS LANDING",
+"COPELANDS LANDING station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "COQUAR",
+"synonyms": [
+"COQUAR",
+"COQUAR station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CORMORANT",
+"synonyms": [
+"CORMORANT",
+"CORMORANT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CORNWALL",
+"synonyms": [
+"CORNWALL",
+"CORNWALL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "COTEAU",
+"synonyms": [
+"COTEAU",
+"COTEAU station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "COTEAU JCT",
+"synonyms": [
+"COTEAU JCT",
+"COTEAU JCT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "CRESSMAN",
+"synonyms": [
+"CRESSMAN",
+"CRESSMAN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DALTON",
+"synonyms": [
+"DALTON",
+"DALTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DA-ROU-LAC LODGE",
+"synonyms": [
+"DA-ROU-LAC LODGE",
+"DA-ROU-LAC LODGE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DAUPHIN",
+"synonyms": [
+"DAUPHIN",
+"DAUPHIN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DERING",
+"synonyms": [
+"DERING",
+"DERING station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DESSANE",
+"synonyms": [
+"DESSANE",
+"DESSANE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DEVON",
+"synonyms": [
+"DEVON",
+"DEVON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DIX",
+"synonyms": [
+"DIX",
+"DIX station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DOME CREEK",
+"synonyms": [
+"DOME CREEK",
+"DOME CREEK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DORREEN",
+"synonyms": [
+"DORREEN",
+"DORREEN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DORVAL",
+"synonyms": [
+"DORVAL",
+"DORVAL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DRUMMONDVILLE",
+"synonyms": [
+"DRUMMONDVILLE",
+"DRUMMONDVILLE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DUNSTER",
+"synonyms": [
+"DUNSTER",
+"DUNSTER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DUPLESSIS",
+"synonyms": [
+"DUPLESSIS",
+"DUPLESSIS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "DYCE",
+"synonyms": [
+"DYCE",
+"DYCE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "EDMONTON",
+"synonyms": [
+"EDMONTON",
+"EDMONTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "EDSON",
+"synonyms": [
+"EDSON",
+"EDSON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ELMA",
+"synonyms": [
+"ELMA",
+"ELMA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ELSAS",
+"synonyms": [
+"ELSAS",
+"ELSAS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ENDAKO",
+"synonyms": [
+"ENDAKO",
+"ENDAKO station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ENDEAVOUR",
+"synonyms": [
+"ENDEAVOUR",
+"ENDEAVOUR station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ESHER",
+"synonyms": [
+"ESHER",
+"ESHER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "EVANSBURG",
+"synonyms": [
+"EVANSBURG",
+"EVANSBURG station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FALLOWFIELD",
+"synonyms": [
+"FALLOWFIELD",
+"FALLOWFIELD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FALRIE",
+"synonyms": [
+"FALRIE",
+"FALRIE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FARLANE",
+"synonyms": [
+"FARLANE",
+"FARLANE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FELIX",
+"synonyms": [
+"FELIX",
+"FELIX station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FERGUSON",
+"synonyms": [
+"FERGUSON",
+"FERGUSON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FERLAND",
+"synonyms": [
+"FERLAND",
+"FERLAND station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FITZPATRICK",
+"synonyms": [
+"FITZPATRICK",
+"FITZPATRICK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FLINDT LANDING",
+"synonyms": [
+"FLINDT LANDING",
+"FLINDT LANDING station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FOLEYET",
+"synonyms": [
+"FOLEYET",
+"FOLEYET station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FORSYTHE",
+"synonyms": [
+"FORSYTHE",
+"FORSYTHE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FORT FRASER",
+"synonyms": [
+"FORT FRASER",
+"FORT FRASER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "FRANZ",
+"synonyms": [
+"FRANZ",
+"FRANZ station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GAGNON",
+"synonyms": [
+"GAGNON",
+"GAGNON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GANANOQUE",
+"synonyms": [
+"GANANOQUE",
+"GANANOQUE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GARNEAU",
+"synonyms": [
+"GARNEAU",
+"GARNEAU station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GEORGETOWN",
+"synonyms": [
+"GEORGETOWN",
+"GEORGETOWN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GILBERT PLAINS",
+"synonyms": [
+"GILBERT PLAINS",
+"GILBERT PLAINS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GILLAM",
+"synonyms": [
+"GILLAM",
+"GILLAM station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GIRDWOOD",
+"synonyms": [
+"GIRDWOOD",
+"GIRDWOOD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GLADSTONE",
+"synonyms": [
+"GLADSTONE",
+"GLADSTONE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GLENCOE",
+"synonyms": [
+"GLENCOE",
+"GLENCOE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GLENELLA",
+"synonyms": [
+"GLENELLA",
+"GLENELLA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GOAT RIVER",
+"synonyms": [
+"GOAT RIVER",
+"GOAT RIVER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GOGAMA",
+"synonyms": [
+"GOGAMA",
+"GOGAMA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GRAND-MÈRE",
+"synonyms": [
+"GRAND-MÈRE",
+"GRAND-MÈRE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GRANDVIEW",
+"synonyms": [
+"GRANDVIEW",
+"GRANDVIEW station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GREENING",
+"synonyms": [
+"GREENING",
+"GREENING station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GRIMSBY",
+"synonyms": [
+"GRIMSBY",
+"GRIMSBY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GUELPH",
+"synonyms": [
+"GUELPH",
+"GUELPH station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GUILDWOOD",
+"synonyms": [
+"GUILDWOOD",
+"GUILDWOOD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "GUILDWOODEAST",
+"synonyms": [
+"GUILDWOODEAST",
+"GUILDWOODEAST station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HALCROW",
+"synonyms": [
+"HALCROW",
+"HALCROW station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HALIFAX",
+"synonyms": [
+"HALIFAX",
+"HALIFAX station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HARVEY",
+"synonyms": [
+"HARVEY",
+"HARVEY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HÉBERTVILLE",
+"synonyms": [
+"HÉBERTVILLE",
+"HÉBERTVILLE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HERCHMER",
+"synonyms": [
+"HERCHMER",
+"HERCHMER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HERVEY",
+"synonyms": [
+"HERVEY",
+"HERVEY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HIBBARD",
+"synonyms": [
+"HIBBARD",
+"HIBBARD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HILLSPORT",
+"synonyms": [
+"HILLSPORT",
+"HILLSPORT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HINTON",
+"synonyms": [
+"HINTON",
+"HINTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HIRONDELLE",
+"synonyms": [
+"HIRONDELLE",
+"HIRONDELLE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HOCKIN",
+"synonyms": [
+"HOCKIN",
+"HOCKIN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HOPE",
+"synonyms": [
+"HOPE",
+"HOPE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HORNEPAYNE",
+"synonyms": [
+"HORNEPAYNE",
+"HORNEPAYNE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HOUSTON",
+"synonyms": [
+"HOUSTON",
+"HOUSTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HUDSON BAY",
+"synonyms": [
+"HUDSON BAY",
+"HUDSON BAY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "HUTTON",
+"synonyms": [
+"HUTTON",
+"HUTTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ILFORD",
+"synonyms": [
+"ILFORD",
+"ILFORD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "INGERSOLL",
+"synonyms": [
+"INGERSOLL",
+"INGERSOLL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "IROQUOIS CLUB",
+"synonyms": [
+"IROQUOIS CLUB",
+"IROQUOIS CLUB station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "JACQUET RIVER",
+"synonyms": [
+"JACQUET RIVER",
+"JACQUET RIVER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "JASPER",
+"synonyms": [
+"JASPER",
+"JASPER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "JOLIETTE",
+"synonyms": [
+"JOLIETTE",
+"JOLIETTE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "JONQUIÈRE",
+"synonyms": [
+"JONQUIÈRE",
+"JONQUIÈRE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KAMLOOPS NORTH",
+"synonyms": [
+"KAMLOOPS NORTH",
+"KAMLOOPS NORTH station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KAMSACK",
+"synonyms": [
+"KAMSACK",
+"KAMSACK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KAPITACHUAN CLUB",
+"synonyms": [
+"KAPITACHUAN CLUB",
+"KAPITACHUAN CLUB station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KATZ",
+"synonyms": [
+"KATZ",
+"KATZ station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KINGSTON",
+"synonyms": [
+"KINGSTON",
+"KINGSTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KINOGAMA",
+"synonyms": [
+"KINOGAMA",
+"KINOGAMA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KISKISSINK",
+"synonyms": [
+"KISKISSINK",
+"KISKISSINK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KITCHENER",
+"synonyms": [
+"KITCHENER",
+"KITCHENER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KITWANGA",
+"synonyms": [
+"KITWANGA",
+"KITWANGA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KONDIARONK",
+"synonyms": [
+"KONDIARONK",
+"KONDIARONK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KORMAK",
+"synonyms": [
+"KORMAK",
+"KORMAK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "KWINITSA",
+"synonyms": [
+"KWINITSA",
+"KWINITSA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LA POCATIÈRE",
+"synonyms": [
+"LA POCATIÈRE",
+"LA POCATIÈRE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LA TUQUE",
+"synonyms": [
+"LA TUQUE",
+"LA TUQUE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LAC DES ROCHES",
+"synonyms": [
+"LAC DES ROCHES",
+"LAC DES ROCHES station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LAC MALOUIN",
+"synonyms": [
+"LAC MALOUIN",
+"LAC MALOUIN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LAC-BOUCHETTE",
+"synonyms": [
+"LAC-BOUCHETTE",
+"LAC-BOUCHETTE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LAC-DAREY",
+"synonyms": [
+"LAC-DAREY",
+"LAC-DAREY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LAC-ÉDOUARD",
+"synonyms": [
+"LAC-ÉDOUARD",
+"LAC-ÉDOUARD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LAFOREST",
+"synonyms": [
+"LAFOREST",
+"LAFOREST station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LANGLADE",
+"synonyms": [
+"LANGLADE",
+"LANGLADE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LAPOCATIÈRE EST",
+"synonyms": [
+"LAPOCATIÈRE EST",
+"LAPOCATIÈRE EST station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LARCHWOOD",
+"synonyms": [
+"LARCHWOOD",
+"LARCHWOOD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "L'ASSOMPTION",
+"synonyms": [
+"L'ASSOMPTION",
+"L'ASSOMPTION station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LAURIER",
+"synonyms": [
+"LAURIER",
+"LAURIER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LE GARDEUR",
+"synonyms": [
+"LE GARDEUR",
+"LE GARDEUR station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LEVACK",
+"synonyms": [
+"LEVACK",
+"LEVACK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LEVEN",
+"synonyms": [
+"LEVEN",
+"LEVEN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LIZOTTE CLUB",
+"synonyms": [
+"LIZOTTE CLUB",
+"LIZOTTE CLUB station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LOCHALSH",
+"synonyms": [
+"LOCHALSH",
+"LOCHALSH station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LONDON",
+"synonyms": [
+"LONDON",
+"LONDON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LONGLAC",
+"synonyms": [
+"LONGLAC",
+"LONGLAC station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LONGWORTH",
+"synonyms": [
+"LONGWORTH",
+"LONGWORTH station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LOOS",
+"synonyms": [
+"LOOS",
+"LOOS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "LYDDAL",
+"synonyms": [
+"LYDDAL",
+"LYDDAL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MALACHI",
+"synonyms": [
+"MALACHI",
+"MALACHI station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MALTON",
+"synonyms": [
+"MALTON",
+"MALTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MANIWAWA CLUB",
+"synonyms": [
+"MANIWAWA CLUB",
+"MANIWAWA CLUB station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MANJOBAGUES",
+"synonyms": [
+"MANJOBAGUES",
+"MANJOBAGUES station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MATAPEDIA",
+"synonyms": [
+"MATAPEDIA",
+"MATAPEDIA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MCBRIDE",
+"synonyms": [
+"MCBRIDE",
+"MCBRIDE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MCCARTHY",
+"synonyms": [
+"MCCARTHY",
+"MCCARTHY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MCCREARY",
+"synonyms": [
+"MCCREARY",
+"MCCREARY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MCGREGOR",
+"synonyms": [
+"MCGREGOR",
+"MCGREGOR station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MCKEE'S CAMP",
+"synonyms": [
+"MCKEE'S CAMP",
+"MCKEE'S CAMP station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "M'CLINTOCK",
+"synonyms": [
+"M'CLINTOCK",
+"M'CLINTOCK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MCTAVISH CLUB",
+"synonyms": [
+"MCTAVISH CLUB",
+"MCTAVISH CLUB station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MÉGISCANE",
+"synonyms": [
+"MÉGISCANE",
+"MÉGISCANE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MELVILLE",
+"synonyms": [
+"MELVILLE",
+"MELVILLE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "METAGAMA",
+"synonyms": [
+"METAGAMA",
+"METAGAMA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MIKADO",
+"synonyms": [
+"MIKADO",
+"MIKADO station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MINAKI",
+"synonyms": [
+"MINAKI",
+"MINAKI station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MIQUICK",
+"synonyms": [
+"MIQUICK",
+"MIQUICK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MIRAMICHI",
+"synonyms": [
+"MIRAMICHI",
+"MIRAMICHI station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MISSANABIE",
+"synonyms": [
+"MISSANABIE",
+"MISSANABIE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MISSION HARBOUR",
+"synonyms": [
+"MISSION HARBOUR",
+"MISSION HARBOUR station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MONCTON",
+"synonyms": [
+"MONCTON",
+"MONCTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MONET",
+"synonyms": [
+"MONET",
+"MONET station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MONTAGUE",
+"synonyms": [
+"MONTAGUE",
+"MONTAGUE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MONT-JOLI",
+"synonyms": [
+"MONT-JOLI",
+"MONT-JOLI station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MONTMAGNY",
+"synonyms": [
+"MONTMAGNY",
+"MONTMAGNY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MONTRÉAL",
+"synonyms": [
+"MONTRÉAL",
+"MONTRÉAL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MUD RIVER",
+"synonyms": [
+"MUD RIVER",
+"MUD RIVER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "MUSK",
+"synonyms": [
+"MUSK",
+"MUSK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "NAKINA",
+"synonyms": [
+"NAKINA",
+"NAKINA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "NAPANEE",
+"synonyms": [
+"NAPANEE",
+"NAPANEE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "NEMEGOS",
+"synonyms": [
+"NEMEGOS",
+"NEMEGOS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "NEW HAZELTON",
+"synonyms": [
+"NEW HAZELTON",
+"NEW HAZELTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "NEW YORK",
+"synonyms": [
+"NEW YORK",
+"NEW YORK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "NIAGARA FALLS",
+"synonyms": [
+"NIAGARA FALLS",
+"NIAGARA FALLS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "NICHOLSON",
+"synonyms": [
+"NICHOLSON",
+"NICHOLSON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "NORTH BEND",
+"synonyms": [
+"NORTH BEND",
+"NORTH BEND station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "OAKVILLE",
+"synonyms": [
+"OAKVILLE",
+"OAKVILLE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "OBA",
+"synonyms": [
+"OBA",
+"OBA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "O'BRIEN",
+"synonyms": [
+"O'BRIEN",
+"O'BRIEN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "OCHRE RIVER",
+"synonyms": [
+"OCHRE RIVER",
+"OCHRE RIVER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "O'DAY",
+"synonyms": [
+"O'DAY",
+"O'DAY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ODHILL",
+"synonyms": [
+"ODHILL",
+"ODHILL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "OPHIR",
+"synonyms": [
+"OPHIR",
+"OPHIR station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "OROK",
+"synonyms": [
+"OROK",
+"OROK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "OSHAWA",
+"synonyms": [
+"OSHAWA",
+"OSHAWA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "OSKELANEO LODGE",
+"synonyms": [
+"OSKELANEO LODGE",
+"OSKELANEO LODGE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "OSKELANEO RIVER",
+"synonyms": [
+"OSKELANEO RIVER",
+"OSKELANEO RIVER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "OTTAWA",
+"synonyms": [
+"OTTAWA",
+"OTTAWA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "OTTAWAEAST",
+"synonyms": [
+"OTTAWAEAST",
+"OTTAWAEAST station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "OTTERMERE",
+"synonyms": [
+"OTTERMERE",
+"OTTERMERE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PACIFIC",
+"synonyms": [
+"PACIFIC",
+"PACIFIC station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PARENT",
+"synonyms": [
+"PARENT",
+"PARENT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PARRY SOUND",
+"synonyms": [
+"PARRY SOUND",
+"PARRY SOUND station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PEARL LAKE",
+"synonyms": [
+"PEARL LAKE",
+"PEARL LAKE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PENNY",
+"synonyms": [
+"PENNY",
+"PENNY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PETIT ROCHER",
+"synonyms": [
+"PETIT ROCHER",
+"PETIT ROCHER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PIKWITONEI",
+"synonyms": [
+"PIKWITONEI",
+"PIKWITONEI station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PIPUN",
+"synonyms": [
+"PIPUN",
+"PIPUN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PIT SIDING",
+"synonyms": [
+"PIT SIDING",
+"PIT SIDING station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PLUMAS",
+"synonyms": [
+"PLUMAS",
+"PLUMAS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "POGAMASING",
+"synonyms": [
+"POGAMASING",
+"POGAMASING station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PONT BEAUDET",
+"synonyms": [
+"PONT BEAUDET",
+"PONT BEAUDET station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PONTON",
+"synonyms": [
+"PONTON",
+"PONTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PORT HOPE",
+"synonyms": [
+"PORT HOPE",
+"PORT HOPE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PORTAGE LA PRAIRIE",
+"synonyms": [
+"PORTAGE LA PRAIRIE",
+"PORTAGE LA PRAIRIE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PORTHOPE",
+"synonyms": [
+"PORTHOPE",
+"PORTHOPE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PRESS",
+"synonyms": [
+"PRESS",
+"PRESS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PRINCE GEORGE",
+"synonyms": [
+"PRINCE GEORGE",
+"PRINCE GEORGE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "PRINCE RUPERT",
+"synonyms": [
+"PRINCE RUPERT",
+"PRINCE RUPERT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "QUÉBEC",
+"synonyms": [
+"QUÉBEC",
+"QUÉBEC station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RAMSEY",
+"synonyms": [
+"RAMSEY",
+"RAMSEY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RAPIDE-BLANC",
+"synonyms": [
+"RAPIDE-BLANC",
+"RAPIDE-BLANC station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RED LAKE ROAD",
+"synonyms": [
+"RED LAKE ROAD",
+"RED LAKE ROAD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "REDDITT",
+"synonyms": [
+"REDDITT",
+"REDDITT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RESERVE",
+"synonyms": [
+"RESERVE",
+"RESERVE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RICE LAKE",
+"synonyms": [
+"RICE LAKE",
+"RICE LAKE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RICHAN",
+"synonyms": [
+"RICHAN",
+"RICHAN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RIMOUSKI",
+"synonyms": [
+"RIMOUSKI",
+"RIMOUSKI station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RIVERS",
+"synonyms": [
+"RIVERS",
+"RIVERS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RIVIÈRE DU LOUP",
+"synonyms": [
+"RIVIÈRE DU LOUP",
+"RIVIÈRE DU LOUP station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RIVIÈRE-À-PIERRE",
+"synonyms": [
+"RIVIÈRE-À-PIERRE",
+"RIVIÈRE-À-PIERRE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RIVIÈRE-DU-LOUP",
+"synonyms": [
+"RIVIÈRE-DU-LOUP",
+"RIVIÈRE-DU-LOUP station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ROBERTS",
+"synonyms": [
+"ROBERTS",
+"ROBERTS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ROBLIN",
+"synonyms": [
+"ROBLIN",
+"ROBLIN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ROGERSVILLE",
+"synonyms": [
+"ROGERSVILLE",
+"ROGERSVILLE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ROUSSEAU",
+"synonyms": [
+"ROUSSEAU",
+"ROUSSEAU station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "RUEL",
+"synonyms": [
+"RUEL",
+"RUEL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SACKVILLE",
+"synonyms": [
+"SACKVILLE",
+"SACKVILLE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SAINT-HILAIRE",
+"synonyms": [
+"SAINT-HILAIRE",
+"SAINT-HILAIRE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SAINT-MAURICE RIVIÈRE-BOOM",
+"synonyms": [
+"SAINT-MAURICE RIVIÈRE-BOOM",
+"SAINT-MAURICE RIVIÈRE-BOOM station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SAINT-TITE",
+"synonyms": [
+"SAINT-TITE",
+"SAINT-TITE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SANFORD",
+"synonyms": [
+"SANFORD",
+"SANFORD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SANMAUR",
+"synonyms": [
+"SANMAUR",
+"SANMAUR station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SARNIA",
+"synonyms": [
+"SARNIA",
+"SARNIA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SASKATOON",
+"synonyms": [
+"SASKATOON",
+"SASKATOON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SAUVÉ",
+"synonyms": [
+"SAUVÉ",
+"SAUVÉ station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SAVANT LAKE",
+"synonyms": [
+"SAVANT LAKE",
+"SAVANT LAKE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SAYABEC",
+"synonyms": [
+"SAYABEC",
+"SAYABEC station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SENNETERRE",
+"synonyms": [
+"SENNETERRE",
+"SENNETERRE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SHAWINIGAN",
+"synonyms": [
+"SHAWINIGAN",
+"SHAWINIGAN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SHEAHAN",
+"synonyms": [
+"SHEAHAN",
+"SHEAHAN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SIGNAI",
+"synonyms": [
+"SIGNAI",
+"SIGNAI station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SINCLAIR MILLS",
+"synonyms": [
+"SINCLAIR MILLS",
+"SINCLAIR MILLS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SIOUX LOOKOUT",
+"synonyms": [
+"SIOUX LOOKOUT",
+"SIOUX LOOKOUT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SIPIWESK",
+"synonyms": [
+"SIPIWESK",
+"SIPIWESK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SISCO CLUB",
+"synonyms": [
+"SISCO CLUB",
+"SISCO CLUB station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SMITHERS",
+"synonyms": [
+"SMITHERS",
+"SMITHERS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SMITHS FALLS",
+"synonyms": [
+"SMITHS FALLS",
+"SMITHS FALLS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SOUTH PARRY",
+"synonyms": [
+"SOUTH PARRY",
+"SOUTH PARRY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SPRINGHILL JCT",
+"synonyms": [
+"SPRINGHILL JCT",
+"SPRINGHILL JCT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ST. CATHARINES",
+"synonyms": [
+"ST. CATHARINES",
+"ST. CATHARINES station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ST. HYACINTHE",
+"synonyms": [
+"ST. HYACINTHE",
+"ST. HYACINTHE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ST. LAMBERT",
+"synonyms": [
+"ST. LAMBERT",
+"ST. LAMBERT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ST.MARYS",
+"synonyms": [
+"ST.MARYS",
+"ST.MARYS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "STADACONA",
+"synonyms": [
+"STADACONA",
+"STADACONA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "STE-FOY",
+"synonyms": [
+"STE-FOY",
+"STE-FOY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ST-JUSTIN",
+"synonyms": [
+"ST-JUSTIN",
+"ST-JUSTIN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "ST-PAULIN",
+"synonyms": [
+"ST-PAULIN",
+"ST-PAULIN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "STRACHAN",
+"synonyms": [
+"STRACHAN",
+"STRACHAN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "STRALAK",
+"synonyms": [
+"STRALAK",
+"STRALAK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "STRATFORD",
+"synonyms": [
+"STRATFORD",
+"STRATFORD station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "STRATHROY",
+"synonyms": [
+"STRATHROY",
+"STRATHROY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "STURGIS",
+"synonyms": [
+"STURGIS",
+"STURGIS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "Sudbury",
+"synonyms": [
+"Sudbury",
+"Sudbury station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SUDBURY (JCT.)",
+"synonyms": [
+"SUDBURY (JCT.)",
+"SUDBURY (JCT.) station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SULTAN",
+"synonyms": [
+"SULTAN",
+"SULTAN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SUMMIT",
+"synonyms": [
+"SUMMIT",
+"SUMMIT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "SUMMIT CLUB",
+"synonyms": [
+"SUMMIT CLUB",
+"SUMMIT CLUB station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TELKWA",
+"synonyms": [
+"TELKWA",
+"TELKWA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TERRACE",
+"synonyms": [
+"TERRACE",
+"TERRACE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "THE PAS",
+"synonyms": [
+"THE PAS",
+"THE PAS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "THIBAUDEAU",
+"synonyms": [
+"THIBAUDEAU",
+"THIBAUDEAU station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "THICKET PORTAGE",
+"synonyms": [
+"THICKET PORTAGE",
+"THICKET PORTAGE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "THOMPSON",
+"synonyms": [
+"THOMPSON",
+"THOMPSON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TIDAL",
+"synonyms": [
+"TIDAL",
+"TIDAL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TIMBRELL",
+"synonyms": [
+"TIMBRELL",
+"TIMBRELL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TOGO",
+"synonyms": [
+"TOGO",
+"TOGO station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TORONTO",
+"synonyms": [
+"TORONTO",
+"TORONTO station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TRENTON",
+"synonyms": [
+"TRENTON",
+"TRENTON station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TRENTON JCT.",
+"synonyms": [
+"TRENTON JCT.",
+"TRENTON JCT. station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TRITON CLUB",
+"synonyms": [
+"TRITON CLUB",
+"TRITON CLUB station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TROIS PISTOLES",
+"synonyms": [
+"TROIS PISTOLES",
+"TROIS PISTOLES station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TRURO",
+"synonyms": [
+"TRURO",
+"TRURO station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "TURNBULL",
+"synonyms": [
+"TURNBULL",
+"TURNBULL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "UNITY",
+"synonyms": [
+"UNITY",
+"UNITY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "UPPER FRASER",
+"synonyms": [
+"UPPER FRASER",
+"UPPER FRASER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "USK",
+"synonyms": [
+"USK",
+"USK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "VALEMOUNT",
+"synonyms": [
+"VALEMOUNT",
+"VALEMOUNT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "VAN BRUYSSEL",
+"synonyms": [
+"VAN BRUYSSEL",
+"VAN BRUYSSEL station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "VANCOUVER",
+"synonyms": [
+"VANCOUVER",
+"VANCOUVER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "VANDERHOOF",
+"synonyms": [
+"VANDERHOOF",
+"VANDERHOOF station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "VANDRY",
+"synonyms": [
+"VANDRY",
+"VANDRY station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "VEREGIN",
+"synonyms": [
+"VEREGIN",
+"VEREGIN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "VIKING",
+"synonyms": [
+"VIKING",
+"VIKING station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WABOWDEN",
+"synonyms": [
+"WABOWDEN",
+"WABOWDEN station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WAINWRIGHT",
+"synonyms": [
+"WAINWRIGHT",
+"WAINWRIGHT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WASHAGO",
+"synonyms": [
+"WASHAGO",
+"WASHAGO station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WATROUS",
+"synonyms": [
+"WATROUS",
+"WATROUS station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WEIR RIVER",
+"synonyms": [
+"WEIR RIVER",
+"WEIR RIVER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WEKUSKO",
+"synonyms": [
+"WEKUSKO",
+"WEKUSKO station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WESTREE",
+"synonyms": [
+"WESTREE",
+"WESTREE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WEYMONT",
+"synonyms": [
+"WEYMONT",
+"WEYMONT station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "White River",
+"synonyms": [
+"White River",
+"White River station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WILLOW RIVER",
+"synonyms": [
+"WILLOW RIVER",
+"WILLOW RIVER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WINDIGO",
+"synonyms": [
+"WINDIGO",
+"WINDIGO station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WINDSOR",
+"synonyms": [
+"WINDSOR",
+"WINDSOR station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WINNIPEG",
+"synonyms": [
+"WINNIPEG",
+"WINNIPEG station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WINNITOBA",
+"synonyms": [
+"WINNITOBA",
+"WINNITOBA station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WIVENHOE",
+"synonyms": [
+"WIVENHOE",
+"WIVENHOE station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WOMAN RIVER",
+"synonyms": [
+"WOMAN RIVER",
+"WOMAN RIVER station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WOODSTOCK",
+"synonyms": [
+"WOODSTOCK",
+"WOODSTOCK station"
+]
+}
+},
+{
+"id": null,
+"name": {
+"value": "WYOMING",
+"synonyms": [
+"WYOMING",
+"WYOMING station"
+]
+}
+},
